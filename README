@@ -1,0 +1,5 @@
+--------------------------------GRID MANAGEMENT SYSTEM------------------
+
+Grid is a server program which is responsible to handle request request coming from the server   using ant colony optimization
+
+Resources.java  is used to run a thread based upon the function requested in the resource
